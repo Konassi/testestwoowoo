@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 lolipa lerran
+=======
+
+loroooossi
+>>>>>>> Stashed changes
