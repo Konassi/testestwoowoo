@@ -1,5 +1,2 @@
-
-
-
-terveisiä mun koneelta ja GitHubista
+hello from github
 
